@@ -1,7 +1,7 @@
 const ethWallet = require("ethereumjs-wallet")
 
-const prefix = "abc"
-const suffix ="d"
+const prefix = "ram"
+const suffix ="ram"
 
 const prefixLength = prefix.length + 2
 const suffixLength = suffix.length
